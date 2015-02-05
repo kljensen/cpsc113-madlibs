@@ -3,7 +3,9 @@ var lodash = require('lodash');
 var adjectives = [
     'short',
     'crafty',
-    'wiley'
+    'wiley',
+    'stupid',
+    'blue'
 ];
 
 module.exports = {};
