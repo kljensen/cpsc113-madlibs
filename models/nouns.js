@@ -3,7 +3,12 @@ var lodash = require('lodash');
 var nouns = [
     'man',
     'bear',
-    'pig'
+    'pig',
+    'swag',
+    'snowman',
+    'dinosaur',
+    'bulldog',
+    'manbearpig'
 ];
 
 module.exports = {};

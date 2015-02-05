@@ -3,7 +3,12 @@ var lodash = require('lodash');
 var verbs = [
     'run',
     'jump',
-    'code'
+    'code',
+    'swag',
+    'swim',
+    'crouch',
+    'spend',
+    'strut'
 ];
 
 module.exports = {};
